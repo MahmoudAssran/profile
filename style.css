@@ -1,0 +1,141 @@
+.Style{
+    background-color: beige;
+}
+
+.Div1{
+    border: 20px rgb(40, 17, 143) double;
+    height: 500px;
+    background-position: center;
+    background-color: rgb(124, 105, 212);
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.H1{
+    color: red;
+    border: 5px black dashed;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 5px;
+    background-color:cyan;
+}
+
+a:hover{
+    color: red;
+}
+
+.AA{
+    background-color: beige;
+}
+
+.H2{
+    margin-left: 10px;
+    color: darkslateblue;
+    background-color: beige;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.LI{
+    font-size: larger;
+    color: blue;
+    text-decoration: none;
+}
+
+div{
+    border: 2px black solid;
+    margin-bottom: 10px;
+}
+
+.HH{
+    color: rgb(255, 140, 0);
+}
+
+.Profile{
+    width: 400px;
+    height: 450px;
+    border: 7px rgba(29, 94, 173, 0.715) solid;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 50px;
+    background-color: rgb(162, 166, 101);
+}
+
+.Table{
+    text-align: center;
+    width: 100%;
+    border: 5px orange solid ;
+    margin-top: 30px;
+}
+
+thead{
+    background-color:antiquewhite;
+}
+
+tbody{
+    background-color: cornsilk;
+}
+
+tfoot{
+    background-color: cornsilk;
+}
+
+.Div{
+    margin-top: 40px;
+}
+
+td{
+    text-align: center;
+}
+
+.Skills{
+    color: darkorange;
+    border: 5px red solid;
+    width: 20%;
+    height: 20%;
+    background-color:darkcyan ;
+    margin-top: 30px;
+}
+
+.form label{
+    text-align: right;
+    font-size: larger;
+}
+
+.form input{
+    line-height: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.form{
+    margin-top: 150px;
+    margin-left: 650px;
+    text-align:center;
+    height: 280px;
+    width: 290px;
+    border: 5px blue solid;
+    background-color: cadetblue;
+}
+
+.Profile:hover{
+    color:blue;
+    line-height: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-size: larger;
+    font-style: italic;
+}
+
+.Table:hover{
+    color:blue;
+    line-height: 40px;
+    font-weight: 50;
+}
+
+.Skills:hover{
+    color:blue;
+    line-height: 40px;
+    font-weight: 50;
+}
